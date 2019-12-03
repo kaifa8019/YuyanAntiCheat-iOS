@@ -47,4 +47,6 @@ pod 'YuyanAntiCheat'
 
 ```
 [[YuyanAntiCheatConfigurer shareConfigurer] event:@"测试" stringValue:@"str" intValue:1];
+
+[[YuyanAntiCheatConfigurer shareConfigurer] event:@"测试" stringValue:@"str"];
 ```

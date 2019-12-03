@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'YuyanAntiCheat'
-  s.version             = '0.1.3'
+  s.version             = '0.1.4'
   s.summary             = 'YuyanAntiCheat for iOS'
   s.homepage            = 'https://github.com/kaifa8019/YuyanAntiCheat-iOS'
   s.license             = { :type => 'Commercial', :text => '艾狄墨搏' }

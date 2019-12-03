@@ -22,6 +22,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)event:(NSString *)key stringValue:(nullable NSString *)strValue intValue:(int)intValue;
 
+- (void)event:(NSString *)key stringValue:(nullable NSString *)strValue;
+
 @end
 
 NS_ASSUME_NONNULL_END
