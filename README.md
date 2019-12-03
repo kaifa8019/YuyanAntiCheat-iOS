@@ -32,7 +32,7 @@ pod 'YuyanAntiCheat'
 ```
 #import <YuyanAntiCheat/YuyanAntiCheat.h>
 
-[[YuyanAntiCheatConfigurer shareConfigurer] prepare:^(NSError * _Nullable error) {
+[[YuyanAntiCheatConfigurer shareConfigurer] prepare:@"appID" callback:^(NSError * _Nullable error) {
     
 }];
 ```
