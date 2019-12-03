@@ -1,0 +1,6 @@
+framework module YuyanAntiCheat {
+  umbrella header "YuyanAntiCheat.h"
+
+  export *
+  module * { export * }
+}
